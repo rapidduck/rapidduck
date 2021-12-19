@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rapidduck
+- 👀 I’m interested in programming and drawing.
+- 🌱 I’m currently learning advanced python.
+- 📫 How to reach me - email: robin.skaba@volny.cz
